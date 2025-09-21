@@ -126,4 +126,4 @@ print(response['choices'][0]['message']['content'])
 
 ---
 
-*Understanding and working with GenAI APIs is essential for integrating powerful AI features into applications, whether for natural language, image generation, or speech processing.*
+
